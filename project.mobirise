@@ -1,0 +1,1000 @@
+{
+  "settings": {
+    "name": "Sentry Lifestyle Nex-Gen 2.0",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#244086",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#9db6d4",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 21,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/sentry-mgmt-icon-128x128px-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Sentry LIFESTYLE Services Presentation - LIFESTYLE Nex-Gen 2.0",
+        "meta_descr": "Creating sustainable streams of income & standardized media outlets, co-branded and marketed as Sentry LIFESTYLE services, that are scalable to meet the exact needs of each community.\n",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#244086"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#244086"
+            },
+            ".link, .dropdown-item": {
+              "color": "#244086"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#244086",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#244086!important"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#244086",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sentry-management-hoa-management-company-logo-584x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.sentrymgt.com/",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-d\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures11-4\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box4-6\">BENEFITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons3-k\">VIDEO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"Sentry-Lifestyle-Services-Presentation.pdf\" target=\"_blank\">Download Proposal</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/eOUWPuJ0alM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "The Launch<br>LIFESTYLE Nex-Gen 2.0",
+          "text": "The creation of standardized media outlets, co-branded and marketed as Sentry LIFESTYLE Services, that are scalable to meet the exact needs of each community.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extAccordion2-b\" data-toolbar=\"-mbrBtnMove\">FEATURES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extMsg-box4-6\" data-toolbar=\"-mbrBtnMove\">BENEFITS</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures11",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle B": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "extFeatures11-4",
+          "_params": {
+            "blocks": "5",
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
+            "bgColor": "#244086",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showDates": true
+          },
+          "mainTitle": "LIFESTYLE Nex-Gen 2.0",
+          "mainSubtitle": "<b>Overview of Ongoing Project Goals</b>",
+          "date1": "Increased Profitability",
+          "title1": "1. &nbsp;Revenue Streams&nbsp;",
+          "text1": "To create sustainable streams of income for Sentry LIFESTYLE Services that have consistent growth and have noticeable impact in increasing company profit.",
+          "date2": "Market Branding",
+          "title2": "2. Standardized Media",
+          "text2": "To create standardized media outlets, co-branded and marketed as Sentry LIFESTYLE services, that are scalable to meet the exact needs of each community.",
+          "date3": "Added Value",
+          "title3": "3. Value-Added Services",
+          "text3": "To increase Sentry LIFESTYLE Service offerings to both future prospective properties and current managed community associations.",
+          "date4": "Elevated Perception",
+          "title4": "4. Social Vibrancy",
+          "text4": "To elevate the perceived property value of homes within community associations through consistent LIFESTYLE events and activities that bring homeowners together in celebration and socially-vibrant settings.",
+          "date5": "Client Loyalty",
+          "title5": "5. Contract Security",
+          "text5": "To create loyalty to the Sentry LIFESTYLE Services brand, thereby, making it difficult for community associations to extricate themselves contractually once LIFESTYLE programs become an expected and intricate aspect of daily life for all dues-paying homeowners.",
+          "date6": "6 June 2016",
+          "title6": "6. Multi Homepages",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date7": "7 July 2016",
+          "title7": "7. Responsive Design",
+          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date8": "8 August 2016",
+          "title8": "8. Smart Watch",
+          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date9": "9 September 2016",
+          "title9": "9. Design out of the box",
+          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date10": "10 October 2016",
+          "title10": "10. Awesome Reports",
+          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date11": "11 November 2016",
+          "title11": "11. Design out of the box",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date12": "12 December 2016",
+          "title12": "12. Awesome Reports",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit."
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_styles": {
+            "P": {
+              "color": "#244086"
+            },
+            "SPAN": {
+              "color": "#244086"
+            }
+          },
+          "_anchor": "extMsg-box4-6",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgText": "Benefits Abound!",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#7e9b9f",
+            "bgTextSize": 250,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Who Benefits, and How?",
+          "text": "It's a Win/Win all around for the CAM Firm, their Managers, Community Associations, Developers, Homeowners, Local Businesses, Realtors and Event Vendors...Everyone benefits from Sentry LIFESTYLE Nex-Gen 2.0! Read More about these benefits below:",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>"
+        },
+        {
+          "_styles": {
+            ".card-number": {
+              "color": "@primaryColor"
+            },
+            ".mbr-iconfont-features4": {
+              "color": "undefined !important"
+            },
+            ".wraper": {
+              "border-color": "undefined !important"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures12",
+          "_anchor": "extFeatures12-5",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "numbersColor": "@primaryColor",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#222",
+            "columns": 3,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x927.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "number1": "01",
+          "title1": "Community Management Firm",
+          "subtitle1": "Higher contract renewal ratios...",
+          "caption1": "Sentry Management, as a CAM firm, benefits from new robust revenue streams, enjoying less disruption in contractual agreements with higher renewal ratios among current community associations. Also, Sentry enjoys a prestige, standing out from its competitors by offering standardized add-on LIFESTYLE services.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/shutterstock-2-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "number2": "02",
+          "title2": "Community Associations",
+          "subtitle2": "Higher perceive property values...",
+          "caption2": "Community Associations benefit through an increased social network of regularly scheduled events and activities that are offset in costs via sponsors and advertisers, which in turn become an added benefit for developers and real estate agents in creating a greater perceived value, thus selling homes more quickly and at the upper end of their actual value.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x908.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "number3": "03",
+          "title3": "Local &amp; Regional Businesses",
+          "subtitle3": "Creates heightened awareness of their offerings...",
+          "caption3": "Local and Regional businesses who offer goods or provide services to homeowners ( i.e. - Realtors, insurance firms, pool maintenance, etc. ) can have a direct targeted-market into the community association via the multiple LIFESTYLE media outlets ( i.e. - LIFESTYLE magazine and eblast ads, brochure/business card lobby placement, etc. ). Thus, creating a consistent and heightened awareness of their offerings.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures12_2.jpg"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "number4": "04",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".card-number": {
+              "color": "@primaryColor"
+            },
+            ".mbr-iconfont-features4": {
+              "color": "undefined !important"
+            },
+            ".wraper": {
+              "border-color": "undefined !important"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures12",
+          "_anchor": "extFeatures12-8",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "numbersColor": "@primaryColor",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#222",
+            "columns": 3,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/shutterstock-1-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "number1": "04",
+          "title1": "Event &amp; Activity Vendors",
+          "subtitle1": "Spend less money marketing for new clients...",
+          "caption1": "Select LIFESTYLE events vendors ( i.e. - caterers, bounce house, entertainers, etc. ) will provide 10% of their service fees as vendor assignment fees to Sentry in exchange for becoming members of Sentry's Preferred LIFESTYLE Event Vendor Network. Obviously, consistent contracts with all Sentry-managed communities will increase in profitability, allowing Sentry to spend less money marketing for new clients and more on improved services.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-4-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "number2": "05",
+          "title2": "Association CAM Managers",
+          "subtitle2": "Ability to offer a valuable suite of additional services...",
+          "caption2": "Sentry CAM Managers will directly benefit from being able to offer a consistent suite of monetarily self-sustaining LIFESTYLE event and activity services to their community association residents. This will lower managment dissatisfaction among homeowners of communities being provided these self-managed Sentry LIFESTYLE Services.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x971.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "number3": "06",
+          "title3": "Homeowners &amp; Residents",
+          "subtitle3": "Imbued with a renewed sense of loyalty",
+          "caption3": "Homeowners will develop an abiding sense of loyalty toward their community, along with a deep sense of satisfaction in their elevated LIFESTYLE and renewed confidence in their management team and the decision-making process of their board of directors..",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures12_2.jpg"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "number4": "04",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extAccordion2",
+          "_styles": {
+            "H1": {
+              "color": "#244086"
+            }
+          },
+          "_anchor": "extAccordion2-b",
+          "_params": {
+            "collapseAll": false,
+            "tabs": "6",
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true
+          },
+          "title": "LIFESTYLE Media<br>Outlet Channels",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion2-b\" data-core=\"\" href=\"#collapseOneextAccordion2-b\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>CO-BRANDED LIFESTYLE MAGAZINES</a>",
+          "text1": "<p>LIFESTYLE Magazines - Community/Sentry co-branded periodical (monthly/quarterly) with full, half and quarter page advertising opportunities for local, regional and nation businesses, plus Neighborhood Business Network page placement. Magazine will be available for free in digital format and residents may pay to have a physical coffee table version delivered to their door with profits rendered as Melrose accounts receivables.</p>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#extAccordion2-b\" data-core=\"\" href=\"#collapseTwoextAccordion2-b\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">LIFESTYLE WEEKLY/MONTHLY EMAILS</a>",
+          "text2": "<p>LIFESTYLE Community Emails - Community/Sentry co-branded informational eblasts with advertising opportunities for local/regional/national businesses.</p>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion2-b\" data-core=\"\" href=\"#collapseThreeextAccordion2-b\" aria-expanded=\"true\" aria-controls=\"collapseThree\">LIFESTYLE WEBSITES</a>",
+          "text3": "<p>LIFESTYLE Websites - Community/Sentry co-branded websites or LIFESTYLE website extensions that have advertising opportunities via preferred local realtor or service vendor tabs. The entire community website hosting and maintenance cost is easily offset by local business sponsorship and advertising.</p>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion2-b\" data-core=\"\" href=\"#collapseFourextAccordion2-b\" aria-expanded=\"true\" aria-controls=\"collapseFour\">LIFESTYLE EVENTS &amp; ACTIVITIES</a>",
+          "text4": "<p>LIFESTYLE Events &amp; Activities - 12 standardized events ( 1 major per month ) that are prepackaged including local event vendors that pay 10% of service fee to be a part of the Sentry Lifestyle Events Network. Sentry Lifestyle Activities will have 15 prepackaged fitness and social activities for all age ranges including pre-approved instructors and preferred activity vendors that pay 10% to be a part of the Sentry LIFESTYLE Activities Network.</p>",
+          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion2-b\" data-core=\"\" href=\"#collapseFiveextAccordion2-b\" aria-expanded=\"true\" aria-controls=\"collapseFive\">LOCAL BUSINESS SYMPOSIUM MEMBERSHIPS</a>",
+          "text5": "<p>Realtor &amp; Insurance Firms Symposium Networks - Local realtors and homeowner insurance agencies will pay a monthly membership fee to attend quarterly wine-tasting functions to meet with homeowners, plus have preferred business card and brochure placement within community center lobbies.</p>",
+          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion2-b\" data-core=\"\" href=\"#collapseSixextAccordion2-b\" aria-expanded=\"true\" aria-controls=\"collapseSix\">LIFESTYLE EVENT VENDOR NETWORKS</a>",
+          "text6": "<p>Sentry Preferred Lifestyle Vendor Network - Approved event and activity vendors would monthly pay a 10% of gross service receipts as Sentry account receivables or a flat membership fee. Preferred Vendor business card &amp; brochure lobby rack placement - Approved vendors simply pay a monthly fee to rent a Lucite business card and brochure holder on an elegant lobby rack within the clubhouse facilities.</p>",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/stoneybrook-west-lifestyle-magazine-1-1275x1650-2000x2588-1400x1811.jpg",
+              "link": "http://sbw1.lifestylemagazines.net/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "LIFESTYLE Nex-Gen 2.0<br>THE PLAN",
+          "text": "<p>An overview road map to beta project success - Yes, I said road map....</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "color": "#244086"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-d",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Standardization of all Sentry LIFESTYLE Services",
+          "text": "<p>All media outlets (LIFESTYLE magazines, eblasts, etc.) will have a standardize template format that ensures the upscale consistency of the Sentry LIFESTYLE brand while still providing personalization to match the brand of the community they are delivered to. Read further below:</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2a4f9a",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<b>Copyright (c) 2017 Sentry LIFESTYLE Services - All Rights Reserved.</b>",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" style=\"background-color: rgb(36, 64, 134); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center mbr-editable-content\" code-editable-id=\"15\"><strong>©Copyright 2017 Sentry LIFESTYLE Services - All Rights Reserved.</strong></p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "footer1-3"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>ASSESS, INVITE, PRESENT &amp; IMPLEMENT:</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sentry LIFESTYLE Services Group would assess all Sentry Management communities to pinpoint 3 communities (large, medium and small) with varying needs with which to begin a beta-test roll-out that would lead to possible successful case studies to be used in future promotion. These communities would be contacted in a very professional manner requesting an opportunity to provide a comprehensive presentation to their board of directors that would lead to a 1-year beta-test contractual agreement for the introduction of Sentry LIFESTYLE Nex-Gen 2.0.</span><br></p><p><br></p>1.) Large community over 1000 homes.<div>2.) Medium community under 500 homes.</div><div>3.) Small community under 250 homes.</div><div><p><br></p></div>",
+          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b><br></b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b><br></b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>FIRST STEP:</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Community Infrastructure planning (budgeting/man-hours/accounts receivable process) and standardization of co-branded media materials prior to beta-test implementation of Sentry LIFESTYLE Nex-Gen 2.0.</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><br></p><p><b>FINAL GOAL:</b></p><p>Program evaluation consistency and continual community success tracking reports that allow us a full company-wide roll-out for Sentry LIFESTYLE Nex-Gen 2.0, complete with marketing case studies. At the end of the day, the paramount goal is consistent increases in profitability for Sentry Management, Inc.</p>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-k",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#244086",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "Sentry LIFESTYLE Videos"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader5",
+          "_styles": {
+            "LABEL": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "extHeader5-i",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader5_bg.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/yKGEeL0iMvc?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#fff",
+            "showTitle": false,
+            "showText": false,
+            "showVideo": true,
+            "showButtons": false,
+            "showArrow": true,
+            "VideoUrl": "https://www.youtube.com/watch?v=yKGEeL0iMvc"
+          },
+          "title": "INTRO WITH VIDEO POPUP",
+          "text": "Full-screen intro with background image and video popup. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/video-play-button-white-512x512.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "text2": "<label class=\"startPreset\" for=\"modal\">View More Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".card-number": {
+              "color": "@primaryColor"
+            },
+            ".mbr-iconfont-features4": {
+              "color": "undefined !important"
+            },
+            ".wraper": {
+              "border-color": "undefined !important"
+            },
+            "H3": {
+              "color": "#9db6d4"
+            },
+            ".card-subtitle": {
+              "font-size": "17px"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures12",
+          "_anchor": "extFeatures12-h",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "2",
+            "numbersColor": "@primaryColor",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#222",
+            "columns": 3,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/poinciana-villages-lifestyle-magazine-1400x1811.jpg",
+              "link": "http://apv.lifestylemagazines.net/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "number1": "Mags",
+          "title1": "Sentry Co-Branded Magazines",
+          "subtitle1": "Hunter S. Thompson:",
+          "caption1": "\"Good <b>news</b> is rare these days, and every glittering ounce of it should be cherished and hoarded and worshipped and fondled like a priceless diamond...\" ",
+          "button1": "<a data-app-btn=\"true\" href=\"http://apv.lifestylemagazines.net/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW MAGAZINES</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/apv-memorial-day-2016-poster-poster-1400x1811.jpg",
+              "link": "https://youtu.be/NTND_qY6L3I",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "number2": "Events",
+          "title2": "Self-Monetized Events &amp; Activities",
+          "subtitle2": "Wade Boggs:",
+          "caption2": "\"A positive attitude causes a chain reaction of positive thoughts, <b>events</b> and outcomes. It is a catalyst and it sparks extraordinary results...\"",
+          "button2": "<a data-app-btn=\"true\" href=\"https://youtu.be/NTND_qY6L3I\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW EVENTS</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/email-sentry-lifestyle-1400x1811.jpg",
+              "link": "http://email.sentrymgmt.info/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "number3": "Emails",
+          "title3": "Business-Sponsored Lifestyle Emails",
+          "subtitle3": "Jeffery Gitomer:",
+          "caption3": "\"My website, my <b>email</b> magazine, my blog, my online books. All create the ability for social media to work and all build reputation and ranking...\"",
+          "button3": "<a data-app-btn=\"true\" href=\"http://email.sentrymgmt.info/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW EMAILS</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures12_2.jpg"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "number4": "04",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    }
+  }
+}
